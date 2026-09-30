@@ -1,0 +1,9 @@
+{
+  "bsi": { "sender": "Rekening Sumber|NAMA:", "amount": "Total(?: DIBAYAR)?" },
+  "bni": { "sender": "Sumber dana", "amount": "Nominal", "senderAfter": true },
+  "bca": { "sender": "Source of Fund", "senderInline": true, "senderLast": true, "amount": "Total Payment|Rp|IDR" },
+  "mandiri": { "sender": "Rekening Sumber", "amount": "Nominal Transfer", "senderAfter": true },
+  "seabank": { "sender": "Dari", "senderInline": true, "amount": "Jumlah Total" },
+  "muamalat": { "sender": "Rekening Sumber", "senderInline": true, "amount": "Nominal" },
+  "permata": { "sender": "Dari", "senderInline": true, "senderAfter": true, "amount": "Jumlah" }
+}
